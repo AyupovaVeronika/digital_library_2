@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-anydpi-v26_icon_app.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-anydpi-v26\\icon_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-hdpi_icon_app_round.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-hdpi\\icon_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_white_border.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\white_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_icon_background.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-xxxhdpi_icon_app.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-xxxhdpi\\icon_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-mdpi_icon_app_foreground.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-mdpi\\icon_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_baseline_block_24.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\baseline_block_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_lavender_contur.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\lavender_contur.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_background.png.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-xhdpi_icon_app_foreground.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-xhdpi\\icon_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\layout_fragment_main_menu_offline.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\fragment_main_menu_offline.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-xxxhdpi_icon_app_round.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-xxxhdpi\\icon_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\layout_fragment_vhod.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\fragment_vhod.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_icon_app_background.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\icon_app_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-xxxhdpi_icon_app_foreground.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-xxxhdpi\\icon_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\layout_fragment_manual.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\fragment_manual.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-xxhdpi_icon_app_foreground.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-xxhdpi\\icon_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\xml_rounded.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\xml\\rounded.xml"
+    },
+    {
+        "merged": "com.example.digitallibrary.app-debug-56:/layout_fragment_signup.xml.flat",
+        "source": "com.example.digitallibrary.app-main-58:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-hdpi_icon_app_foreground.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-hdpi\\icon_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-hdpi_icon_app.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-hdpi\\icon_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_lavender_fill.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\lavender_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-anydpi-v26_icon_app_round.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-anydpi-v26\\icon_app_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-xxhdpi_icon_app_round.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-xxhdpi\\icon_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-mdpi_icon_app_round.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-mdpi\\icon_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\layout_fragment_forgot.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\fragment_forgot.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-xhdpi_icon_app_round.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-xhdpi\\icon_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\layout_activity_menu_offline.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\activity_menu_offline.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-xhdpi_icon_app.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-xhdpi\\icon_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_icon_bookmark.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\icon_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_icon_search.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\icon_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-xxhdpi_icon_app.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-xxhdpi\\icon_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\layout_fragment_signup.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "com.example.digitallibrary.app-debug-56:/layout_fragment_vhod.xml.flat",
+        "source": "com.example.digitallibrary.app-main-58:/layout/fragment_vhod.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_baseline_3p_24.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\baseline_3p_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_dark_grey_fill.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\dark_grey_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_icon_compress_menu.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\icon_compress_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-mdpi_icon_app.webp.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-mdpi\\icon_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-debug-56:\\drawable_poloska_zapolneniya_text.xml.flat",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\drawable\\poloska_zapolneniya_text.xml"
+    }
+]

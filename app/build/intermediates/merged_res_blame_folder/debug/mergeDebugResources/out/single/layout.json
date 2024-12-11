@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-mergeDebugResources-55:\\layout\\fragment_forgot.xml",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\fragment_forgot.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-mergeDebugResources-55:\\layout\\fragment_main_menu_offline.xml",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\fragment_main_menu_offline.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-mergeDebugResources-55:\\layout\\fragment_vhod.xml",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\fragment_vhod.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-mergeDebugResources-55:\\layout\\fragment_signup.xml",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-mergeDebugResources-55:\\layout\\fragment_manual.xml",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\fragment_manual.xml"
+    },
+    {
+        "merged": "com.example.digitallibrary.app-mergeDebugResources-55:/layout/fragment_signup.xml",
+        "source": "com.example.digitallibrary.app-main-58:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-mergeDebugResources-55:\\layout\\activity_menu_offline.xml",
+        "source": "C:\\Users\\iamyo\\.gradle\\daemon\\8.9\\com.example.digitallibrary.app-main-58:\\layout\\activity_menu_offline.xml"
+    },
+    {
+        "merged": "com.example.digitallibrary.app-mergeDebugResources-55:/layout/fragment_vhod.xml",
+        "source": "com.example.digitallibrary.app-main-58:/layout/fragment_vhod.xml"
+    }
+]
